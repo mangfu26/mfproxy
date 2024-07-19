@@ -6,9 +6,9 @@ MFProxy 是一个基于 [OpenResty](https://openresty.org/) 和 [ngx_http_proxy_
 
 ## 1. 使用
 
-开始使用前请确保您的服系统已经安装了 Docker
+开始使用前请确保您的系统已经安装了 Docker
 
-如果没有, 请根据您的操作系统版本安装 Docker
+如果没有, 请参文档 [Install Docker Engine | Docker Docs](https://docs.docker.com/engine/install/) ,根据您的操作系统版本安装 Docker
 
 
 ### 1.1 构建镜像
